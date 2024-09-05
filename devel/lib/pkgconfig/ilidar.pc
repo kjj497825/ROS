@@ -1,0 +1,8 @@
+prefix=/home/kjj/catkin_ws/devel
+
+Name: ilidar
+Description: Description of ilidar
+Version: 1.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp pcl_conversions pcl_ros

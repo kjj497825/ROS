@@ -1,0 +1,8 @@
+prefix=/home/kjj/catkin_ws/install
+
+Name: rtsp_ros_driver
+Description: Description of rtsp_ros_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
